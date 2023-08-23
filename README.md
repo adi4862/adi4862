@@ -25,4 +25,8 @@ It uses the Haar-cascade classifier algorithm for face detection and the LBPH (l
 recognition
 - Technologies used: Python, OpenCV, Tkinter.
 
+### [Optimization of MCLP Using ABC and EDA](https://github.com/adi4862/MCLP)
+- Description: The project aims to optimize the NP-hard Maximum Covering Location Problem (MCLP) using two hyper-heuristics algorithms Artificial bee colony optimization (ABC) and Estimation of distribution algorithm (EDA).
+- Technologies used: C++.
+
 Feel free to explore my repositories to see more of my work! 🚀
