@@ -19,7 +19,7 @@ I'm a Computer Science enthusiast passionate about AI, ML, and Robotics. I got a
 - Email: [adarsh4862.pandey@gmail.com](mailto:adarsh4862.pandey@gmail.com)
 
 ## 🛠️ My Projects
-### [Attendance monitoring system](https://github.com/adi4862/attendance-monitoring-system)
+### [Attendance monitoring system](https://github.com/adi4862/attendance_monitoring_system)
 - Description: The project is a face recognition-based attendance monitoring system designed to detect and mark the live attendance of students.
 It uses the Haar-cascade classifier algorithm for face detection and the LBPH (local binary pattern histogram) algorithm for face
 recognition
